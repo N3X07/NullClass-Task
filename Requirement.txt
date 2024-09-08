@@ -1,0 +1,22 @@
+Task 1
+Short Discription -  To  create a model that detect the age and gender from the IMDB and WIKI dataset
+
+Requirement:-
+1. Python 3.7
+2. Keras
+3.  TensorFlow
+4.  OpenCV
+5.  Numpy
+6.  Pandas
+7.  Matplotlib
+8.  Scikit-learn
+9.  Keras-ResNet50
+10.  Keras-Applications
+11.  Keras-Preprocessing
+12.  Keras-Utils
+13.  Keras-Backend
+14.  Keras-Config
+15.  VGG-Face
+
+
+Note:- The model  is trained on the IMDB and WIKI dataset. The model is trained to detect the age on a pre trained CNN model
